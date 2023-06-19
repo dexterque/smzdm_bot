@@ -1,0 +1,3 @@
+# UTC时间，对应Beijing时间 9：30
+schedule:
+  - cron: "30 1 * * *"
